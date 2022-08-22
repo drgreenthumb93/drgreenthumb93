@@ -6,3 +6,6 @@ drgreenthumb93/drgreenthumb93 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+
+- 📄 Wo kämen wir hin, wenn jeder fragen würde "Wo kämen wir hin?", <br>
+     und keiner ginge um zu sehen, wohin wir kämen, wenn wir gingen.
