@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drgreenthumb93
+- 👋 Hi, I’m drgreenthumb93
 - 👀 I’m interested in gaming, ethical hacking, pentesting and coding.
 - 🌱 I’m currently learning how to code and pentesting generally.
 - ⚙️ Working on some Pentest related scripts
